@@ -1,0 +1,5 @@
+L.D F0 0
+L.D F1 1
+ADD.D F0 F0 F1
+MUL.D F1 F0 F1
+S.D F1 2
